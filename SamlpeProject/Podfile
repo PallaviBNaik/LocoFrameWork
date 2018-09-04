@@ -1,0 +1,12 @@
+# Uncomment the next line to define a global platform for your project
+# platform :ios, '9.0'
+
+target 'SamlpeProject' do
+  # Comment the next line if you're not using Swift and don't want to use dynamic frameworks
+  use_frameworks!
+pod 'LocoFrameWork', :path => "../LocoFrameWork1/"
+#podspec name
+
+  # Pods for SamlpeProject
+
+end

@@ -1,0 +1,6 @@
+framework module LocoFrameWork {
+  umbrella header "LocoFrameWork-umbrella.h"
+
+  export *
+  module * { export * }
+}
