@@ -10,4 +10,5 @@ Pod::Spec.new do |s|
   s.platform     = :ios, "11.0"
   s.source       = { :git => "https://github.com/PallaviBNaik/LocoFrameWork.git", :tag => "1.0.0" }
   s.source_files  = "LocoFrameWork1/**/*"
+  s.ios.deployment_target = "8.0"
 end
